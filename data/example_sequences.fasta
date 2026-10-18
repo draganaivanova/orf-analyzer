@@ -1,0 +1,14 @@
+>sequence_1
+AAATGAAACCCGGGTGACCC
+>sequence_2
+CCCATGTTTGGGTAGAAACCC
+>sequence_3
+ATGAAATGACCCATGGGGTAA
+>multiple_start_test
+ATGAAAATGCCCTAA
+>reverse_test
+TTACCCCAT
+>no_orf_test
+CCCCCCCCCCCCCCC
+>no_stop_test
+ATGAAACCCGGG
